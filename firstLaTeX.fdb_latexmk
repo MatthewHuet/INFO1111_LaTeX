@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1711522338.20974 "c:/Users/Matthew/.vscode/Projects/LaTeX_project/firstLaTeX.tex" "firstLaTeX.pdf" "firstLaTeX" 1711522338.51673 0
+["pdflatex"] 1711522828.3611 "c:/Users/Matthew/.vscode/Projects/LaTeX_project/firstLaTeX.tex" "firstLaTeX.pdf" "firstLaTeX" 1711522828.70511 0
   "C:/Users/Matthew/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1711521954 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Matthew/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1711521962 24236950 7b5ead91fa9ae51319cf04a9b9610164 ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -12,15 +12,17 @@
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "C:/Users/Matthew/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1710412547 29918 d08e4795c0778dfb000e82d9225c6ce2 ""
-  "c:/Users/Matthew/.vscode/Projects/LaTeX_project/firstLaTeX.tex" 1711522337 191 54beb9d8cfc2a488ea59b2b6ce82b729 ""
-  "firstLaTeX.aux" 1711522338 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "firstLaTeX.tex" 1711522337 191 54beb9d8cfc2a488ea59b2b6ce82b729 ""
+  "c:/Users/Matthew/.vscode/Projects/LaTeX_project/firstLaTeX.tex" 1711522827 260 fe690b9c66630d3ef10e9413a76e7844 ""
+  "firstLaTeX.aux" 1711522828 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "firstLaTeX.tex" 1711522827 260 fe690b9c66630d3ef10e9413a76e7844 ""
   (generated)
   "firstLaTeX.aux"
   "firstLaTeX.log"
